@@ -1,0 +1,11 @@
+# Font style metadata
+name = "openp2pdesign"
+
+# Optional Google font URL
+google_fonts = "Dosis:400,600,700|Roboto:400,400i,500|Roboto+Mono"
+
+# Font families
+heading_font = "Dosis"
+body_font = "Roboto"
+nav_font = "Roboto"
+mono_font = "Roboto Mono"
