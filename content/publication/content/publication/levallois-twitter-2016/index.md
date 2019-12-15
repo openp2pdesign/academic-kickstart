@@ -1,0 +1,12 @@
+---
+title: "Twitter for Research Handbook 2015 – 2016"
+date: 2016-01-01
+publishDate: 2019-12-15T17:58:01.164203Z
+authors: ["Clement Levallois", "Morgane Marchand", "Tiago Mata", "Andre Panisson"]
+publication_types: ["5"]
+abstract: "Twitter: how is it used by academics to advance science in different research fields?   This handbook published by EMLYON Press gathers recent studies where data collected from Twitter helped explore fascinating questions in linguistics, marketing, urban studies and beyond.  It comprises 13 chapters written by an international group of academics who participated in the conference \"Twitter for Research\" organized by EMLYON Business School in Lyon, France in April 2015.  The contributing authors are:   Sibele Fausto, University of Sao Paulo Pascal Aventurier, Institut National de la Recherche Agronomique Eglantine Schmitt, Sorbonne Universites, Université de Technologie de Compiegne Michael Gauthier, Universite de Lyon Adrien Guille, Universite de Lyon Fabien Rico, Universite de Lyon Anthony Deseille, Universite de Lyon Massimo Menichinelli, Aalto University Nelleke Oostdijk, Radboud University Hans van Halteren, Radboud University Camille Lagarde-Belleville, Paul Valery University Michel Otell, Paul Valery University Lucill J. Curtis, Essex Business School, University of Essex Marta Severo, Universite de Lille 3 Timothee Giraud, CNRS, UMS Riate Hugues Pecout, CNRS, GIS-CIST Ritesh Shah, Universite Grenoble-Alpes and Indian Institute of Technology Christian Boitet, Université Grenoble-Alpes Pushpak Bhattacharyya, Indian Institute of Technology Fabio Goveia, University of Espirito Santo Lia Carreira, University of Espirito Santo Lucas Cypriano, University of Espirito Santo Tasso Gasparini, University of Espirito Santo Johanna Honorato, University of Espirito Santo Veronica Haacke, University of Espirito Santo Willian Lopes, University of Espirito Santo Grace A. Ruiter, Calvin College Josephine Bromley, University of Leeds Andria Andriuzzi, Sorbonne Business School"
+featured: false
+publication: "*EMLYON Press*"
+url_pdf: "http://dx.doi.org/10.5281/zenodo.44882"
+---
+

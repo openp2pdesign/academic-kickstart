@@ -1,0 +1,13 @@
+---
+title: "WP7 MakerSpacesRadar"
+date: 2018-02-01
+publishDate: 2019-12-15T17:58:01.364777Z
+authors: ["Massimo Menichinelli"]
+publication_types: ["0"]
+abstract: "As a younger twin of the TechRadar developed in WP5, WP7 produceda simple dashboard that shows some analytics about the makerspaces: the MakerSpacesRadar, that shows where they are distributed and the different kinds of labs. This dashboard is completely data-driven, and it is an example application of the makerlabs library (a Python module for retrieving data from several Maker CAPS); it could be interested for any stakeholder interested in having an overview of the makerspaces without the need for developing software or research. The dataset shows the distribution of Fab Labs, Hackerspaces and DIYBio Lab globally, by continent, by country and by city. You can read more in D7.3 here and in the Visualisations page here. See also: http://make-it.io/open-data-api/"
+featured: false
+publication: "*Zenodo*"
+url_pdf: "https://zenodo.org/record/1182468#.XbYMbL9xV0s"
+doi: "10.5281/zenodo.1182468"
+---
+
