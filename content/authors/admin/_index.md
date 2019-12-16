@@ -56,6 +56,9 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.es/citations?user=_dnvybAAAAAJ
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/massimomenichinelli/
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Massimo_Menichinelli
@@ -78,6 +81,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Massimo Menichinelli is a designer who researches and develops open, collaborative, and co-design projects and the systems that enable them since 2005. He uses design tools and processes in order to help companies, organizations, cities and local communities to develop open and collaborative processes, business, services, places and projects such as Open Design, FabLab and User-driven Open and Social Innovation initiatives. Massimo has given lectures and workshops in various countries including Italy, Spain, Finland, Germany, United Kingdom, Mexico, Colombia, South Korea and Singapore so far.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Massimo has published several scientific articles and books on the topics of Open Design, Makers and Fab Labs and has lectured on Digital Fabrication and Open Design at Aalto University (Helsinki, Finland) and Open Design at SUPSI (Lugano, Switzerland) and in the Fab Academy (Opendot and WeMake, Italy). Massimo worked on the development of the Aalto FabLab, the MUSE Fab Lab (Trento, Italy), the Opendot makerspace/Fab Lab (Milan, Italy) and as a Director at Make In Italy Italian Fablab & Makers Foundation CDB where he researched and facilitated Fab Labs and Makers in Italy. For several years Massimo was also a project manager for research projects at IAAC | Fab City Research Lab, especially in the MAKE-IT and SISCODE Horizon 2020 European project and as a coordinator of the Creative Europe platform programme Distributed Design Market Platform and as project manager of Fablabs.io, the official and open source platform for the global Fab Lab Network. He is now Research Fellow at RMIT Europe, in Barcelona, working at the coordination of the Horizon 2020 project OpenInnoTrain.
